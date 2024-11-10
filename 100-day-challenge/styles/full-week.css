@@ -1,3 +1,31 @@
-p {
+h1 {
+    font-size: 48px;
+    color:  rgb(236, 14, 207);
+}
+
+a {
+    color: rgba(0, 24, 245, 0.952);
+    background-color: rgba(182, 2, 2, 0.479);
+    border-radius: 20px;
     font-size: 25px;
+}
+
+a:hover {
+    text-decoration: none;
+    background-color: rgb(236, 14, 14);
+}
+
+ol {
+    list-style: none;
+}
+
+li {
+    background-color: rgba(246, 250, 0, 0.555);
+    border-radius: 5px;
+    margin: 10px;
+    font-size: 20px;
+}
+
+li:hover {
+    background-color:rgb(236, 14, 14);
 }
