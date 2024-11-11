@@ -1,24 +1,24 @@
 body {
-    text-align: center;
-    background-color: rgb(207, 218, 54);
-    margin: 50px;
+  text-align: center;
+  background-color: rgb(207, 218, 54);
+  margin: 50px;
 }
 
 h1 {
-    font-family: 'Oswald', sans-serif;
-    color: rgb(83, 75, 75)
+  font-family: "Oswald", sans-serif;
+  color: rgb(83, 75, 75);
 }
 
 p {
-    font-family: 'Fira Sans', sans-serif;
-    color: rgb(83, 75, 75)
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(83, 75, 75);
 }
 
 a {
-    color: rgb(17, 78, 158);
-    text-decoration: none;
+  color: rgb(17, 78, 158);
+  text-decoration: none;
 }
 
 a:hover {
-    text-decoration: underline;
+  text-decoration: underline;
 }
