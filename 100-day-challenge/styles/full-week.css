@@ -1,9 +1,13 @@
 h1 {
   font-size: 48px;
   color: rgb(236, 14, 207);
-  margin: 12px 0px;
+  margin: 0;
 }
-)_ 
+
+header p {
+  margin: 12px;
+}
+
 a {
   color: rgba(0, 24, 245, 0.952);
   background-color: rgba(182, 2, 2, 0.479);
@@ -13,6 +17,7 @@ a {
 
   font-size: 25px;
   padding: 4px 3px;
+  display: inline-block;
 }
 
 a:hover {
@@ -34,6 +39,8 @@ li {
   margin: 32px;
   font-size: 20px;
   padding: 10px;
+
+  box-shadow: 10px 5px 5px rgb(236, 14, 207);
 }
 
 li:hover {
