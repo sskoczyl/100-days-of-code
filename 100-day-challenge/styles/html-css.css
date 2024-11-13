@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+}
+
+header>h1 {
+    color: rgb(162, 32, 214);
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+#html-css-logo {
+    height: 150px;
+    width: auto;
+}
